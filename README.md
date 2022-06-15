@@ -3,4 +3,6 @@ hello, im albibos. my other online names are "albios", "albinus", and "albinuste
 currently learning: HTML, CSS, JS and C#
 
 why learning specified languages?
-> starting web and game-mod development
+i am starting web and game-mod development
+
+feel free to crack and use my roblox scripts to your liking. i don't do lua anymore.
