@@ -6,4 +6,4 @@
  I am Albinus, a frontend developer. Though I do have some experience doing backend via nodejs, python, etc.
  
  ### Skills
-[![](https://skillicons.dev/icons?i=js,html,css,js,cpp,nodejs,go,rust)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,nodejs,rust,cpp,go)](https://skillicons.dev)
