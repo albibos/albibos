@@ -7,3 +7,6 @@
  
  ### Skills
 [![](https://skillicons.dev/icons?i=html,css,js,nodejs,rust,cpp,go)](https://skillicons.dev)
+
+### Projects
+soon
